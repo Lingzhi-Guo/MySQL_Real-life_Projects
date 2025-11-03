@@ -1,4 +1,5 @@
 -- input the data 数据导入
+-- https://tianchi.aliyun.com/dataset/649
 
 create table userbehavior(
 userID int,
