@@ -48,7 +48,7 @@ and exists (
 
 select 
 count(userID) as userID, count(itemID) as itemID, 
-count(categoryID) as categoryID, count(bahaviortype) as bahaviortype, 
+count(categoryID) as categoryID, count(behaviortype) as bahaviortype, 
 count(timestamp) as timestamp
 from userbehavior;
 
